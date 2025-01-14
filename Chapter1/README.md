@@ -69,6 +69,26 @@ Aycenia
 
 ## Random Encounter Bestiary (WIP - Statblocks to be added)
 
+- 1-5: 1d6 dire rats https://2e.aonprd.com/Monsters.aspx?ID=346
+- 6-8: 1 ghoul https://2e.aonprd.com/Monsters.aspx?ID=218
+- 9-12: 1d4 giant centipedes https://2e.aonprd.com/Monsters.aspx?ID=77
+- 13-18: 1 giant spider https://2e.aonprd.com/Monsters.aspx?ID=386
+- 19-21: 1d6 human(oid) skeletons https://2e.aonprd.com/Monsters.aspx?ID=372
+- 22-33: 1d6 jungle goats https://monster.pf2.tools/v/mmw8WrB8
+- 34-45: 2d4 monkeys https://2e.aonprd.com/Monsters.aspx?ID=1231&Weak=true
+- 46-49: 1 spider swarm https://2e.aonprd.com/Monsters.aspx?ID=385&Elite=true
+- 50-59: 1d4 Thrunefang Warriors https://monster.pf2.tools/v/JFRHd1lR
+- 60-64: 1d4 vipers https://2e.aonprd.com/Monsters.aspx?ID=379
+- 65-68: 1 bat swarm https://2e.aonprd.com/Monsters.aspx?ID=45
+- 69-72: 1 constrictor snake https://monster.pf2.tools/v/wqT7MvbW
+- 73-78: 1d4 dimorphodons https://monster.pf2.tools/v/C0LrszSc
+- 79-81: 1d6 human(oid) zombies https://monster.pf2.tools/v/dYlLhvpF
+- 82-84: Pezock https://monster.pf2.tools/v/HMFjR5l5
+- 85-89: 1 Shiv dragon https://2e.aonprd.com/Monsters.aspx?ID=289
+- 90-96: 1d4 venomous snakes https://monster.pf2.tools/v/bLh7FHo9
+- 97-99: 1d4 shocker lizards https://2e.aonprd.com/Monsters.aspx?ID=802
+- 100: 1 winged chupacabra (See Bestiary) https://monster.pf2.tools/v/4WWQV3Cq
+
 Ningyo
 Undead Ningyo
 Rhamphorhynchus
