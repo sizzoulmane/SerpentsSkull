@@ -20,13 +20,12 @@
 - Level 3: before they reach the Cannibal Ambush
 - Level 4: before they enter the Azlanti Temple
 
-Using Fast Track Advancement, as per the original AP, the target for this book is therefore 3,000+ level adjusted XP. There is around 10% more than this available in the book, to allow for optional encounters.
-
+Using Fast Track Advancement, as per the original AP, the target for this book is therefore 3,000 + plus optional encounters = 3200-3xxx level adjusted XP.
 ## Section XP rewards
 
 Part | Title                   | Max XP 
 -----|-------------------------|-------
-1    | Shipwrecked on the Shiv |  80  
+1    | Shipwrecked on the Shiv |  80-150  
 2    | Exploring the Shiv      |  xxx 
 3    | The Cannibal Camp       |  xxx  
 4    | Temple of Blood         |  xxx 
@@ -64,40 +63,30 @@ Gelik Aberwhinge
 Ishirou
 Jask Derendi
 Sasha Nevah
-Pezock
+[Pezock]
 Aycenia
 
 ## Random Encounter Bestiary (WIP - Statblocks to be added)
 
-- 1-5: 1d6 dire rats https://2e.aonprd.com/Monsters.aspx?ID=346
-- 6-8: 1 ghoul https://2e.aonprd.com/Monsters.aspx?ID=218
-- 9-12: 1d4 giant centipedes https://2e.aonprd.com/Monsters.aspx?ID=77
-- 13-18: 1 giant spider https://2e.aonprd.com/Monsters.aspx?ID=386
-- 19-21: 1d6 human(oid) skeletons https://2e.aonprd.com/Monsters.aspx?ID=372
-- 22-33: 1d6 jungle goats https://monster.pf2.tools/v/mmw8WrB8
-- 34-45: 2d4 monkeys https://2e.aonprd.com/Monsters.aspx?ID=1231&Weak=true
-- 46-49: 1 spider swarm https://2e.aonprd.com/Monsters.aspx?ID=385&Elite=true
-- 50-59: 1d4 Thrunefang Warriors https://monster.pf2.tools/v/JFRHd1lR
-- 60-64: 1d4 vipers https://2e.aonprd.com/Monsters.aspx?ID=379
-- 65-68: 1 bat swarm https://2e.aonprd.com/Monsters.aspx?ID=45
-- 69-72: 1 constrictor snake https://monster.pf2.tools/v/wqT7MvbW
-- 73-78: 1d4 dimorphodons https://monster.pf2.tools/v/C0LrszSc
-- 79-81: 1d6 human(oid) zombies https://monster.pf2.tools/v/dYlLhvpF
-- 82-84: Pezock https://monster.pf2.tools/v/HMFjR5l5
-- 85-89: 1 Shiv dragon https://2e.aonprd.com/Monsters.aspx?ID=289
-- 90-96: 1d4 venomous snakes https://monster.pf2.tools/v/bLh7FHo9
-- 97-99: 1d4 shocker lizards https://2e.aonprd.com/Monsters.aspx?ID=802
-- 100: 1 winged chupacabra (See Bestiary) https://monster.pf2.tools/v/4WWQV3Cq
-
-Ningyo
-Undead Ningyo
-Rhamphorhynchus
-Dimorphodon
-Quetzalcoatlus
-Sea Urchin, Giant
-Spear Urchin
-Glass Urchin
-Tuyewera
+- 1-5: 1d6 [dire rats](https://2e.aonprd.com/Monsters.aspx?ID=3162&Redirected=1)
+- 6-8: 1 [ghoul](http://2e.aonprd.com/Monsters.aspx?ID=218)
+- 9-12: 1d4 [giant centipedes](https://2e.aonprd.com/Monsters.aspx?ID=77)
+- 13-18: 1 [giant spider](https://2e.aonprd.com/Monsters.aspx?ID=386)
+- 19-21: 1d6 [human(oid) skeletons](https://2e.aonprd.com/Monsters.aspx?ID=372)
+- 22-33: 1d6 [jungle goats](https://monster.pf2.tools/v/yrsJ3zzv-jungle-goat)
+- 34-45: 2d4 [monkeys](https://2e.aonprd.com/Monsters.aspx?ID=1231&Weak=true)
+- 46-49: 1 [spider swarm](https://2e.aonprd.com/Monsters.aspx?ID=385&Elite=true)
+- 50-59: 1d4 [Thrunefang Warriors](https://monster.pf2.tools/v/T0sX6mOW-thrunefang-warrior)
+- 60-64: 1d4 [vipers](https://2e.aonprd.com/Monsters.aspx?ID=379)
+- 65-68: 1 [bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=45)
+- 69-72: 1 [constrictor snake](https://monster.pf2.tools/v/RoRS9Wzy)
+- 73-78: 1d4 [dimorphodons] https://monster.pf2.tools/v/C0LrszSc
+- 79-81: 1d6 [human(oid) zombies](https://2e.aonprd.com/Monsters.aspx?ID=3249)
+- 82-84: [Pezock] https://monster.pf2.tools/v/HMFjR5l5
+- 85-89: 1 [Shiv dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
+- 90-96: 1d4 [venomous snakes](https://monster.pf2.tools/v/Lzc24oS8)
+- 97-99: 1d4 [shocker lizards](https://2e.aonprd.com/Monsters.aspx?ID=802)
+- 100: 1 [winged chupacabra] https://monster.pf2.tools/v/4WWQV3Cq
 
 ## Part 1: Shipwrecked on the Shiv (###xp, Party Level 1)
 
@@ -109,7 +98,7 @@ This is a fairly short part but serves the purpose of showing how dire their sit
     - 3x [Euryptids](https://2e.aonprd.com/Monsters.aspx?ID=1151) 
  - **Loot:** All of the castaway and party gear (if not given already)
 
-### Taking Stock (10-30xp, RP Encounter)
+### Taking Stock (10-40xp, RP Encounter)
  - 10xp for concluding the Jenivere sank or wrecked, 20xp for finding the footprints
  - 10xp for succeeding the Medicine check to confirm they were poisoned
 
@@ -117,14 +106,14 @@ This is a fairly short part but serves the purpose of showing how dire their sit
  - 10xp for confirming the island is Smuggler's Shiv
  - 10xp, 20xp, 30xp, or 40xp for successful Lore checks via page 11.
 
-## Part 2: Exploring the Shiv (###xp, Party level 1)
+## Part 2: Exploring the Shiv (###xp, Party level 1-2)
 
 This is THE BRUNT of this book. The party should hit Level 2 while exploring, and could even reach Level 3! 
 
-### B. Wreck of the Jenivere (60xp, low threat)
+### B. Wreck of the Jenivere (40xp, low threat)
 
   - **Creatures:** 
-    - 2x [Euryptids, Elite](https://2e.aonprd.com/Monsters.aspx?ID=1151) 
+    - 1x [Euryptids, Elite](https://2e.aonprd.com/Monsters.aspx?ID=1151) 
   - **Loot:** Captain's Log
 
 ### C. Predator Dens (xp based on den, variable threat level)
