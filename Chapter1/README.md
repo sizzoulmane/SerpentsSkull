@@ -84,7 +84,7 @@ Aycenia
 - 79-81: 1d6 [human(oid) zombies](https://2e.aonprd.com/Monsters.aspx?ID=3249)
 - 82-84: [Pezock] or see L
 - 85-89: 1 [Shiv dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
-- 90-96: 1d4 [venomous snakes](https://monster.pf2.tools/v/Lzc24oS8)
+- 90-96: 1d4 [venomous snakes](./statblocks/venomous_snake.pdf)
 - 97-99: 1d4 [shocker lizards](https://2e.aonprd.com/Monsters.aspx?ID=802)
 - 100: 1 [winged chupacabra] https://monster.pf2.tools/v/4WWQV3Cq
 
