@@ -82,7 +82,7 @@ Aycenia
 - 69-72: 1 [constrictor snake](https://monster.pf2.tools/v/RoRS9Wzy)
 - 73-78: 1d4 [dimorphodons] https://monster.pf2.tools/v/C0LrszSc
 - 79-81: 1d6 [human(oid) zombies](https://2e.aonprd.com/Monsters.aspx?ID=3249)
-- 82-84: [Pezock] https://monster.pf2.tools/v/HMFjR5l5
+- 82-84: [Pezock] or see L
 - 85-89: 1 [Shiv dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
 - 90-96: 1d4 [venomous snakes](https://monster.pf2.tools/v/Lzc24oS8)
 - 97-99: 1d4 [shocker lizards](https://2e.aonprd.com/Monsters.aspx?ID=802)
