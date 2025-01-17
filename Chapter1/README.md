@@ -68,25 +68,25 @@ Aycenia
 
 ## Random Encounter Bestiary (WIP - Statblocks to be added)
 
-- 1-5: 1d6 [dire rats](https://2e.aonprd.com/Monsters.aspx?ID=3162&Redirected=1)
-- 6-8: 1 [ghoul](http://2e.aonprd.com/Monsters.aspx?ID=218)
-- 9-12: 1d4 [giant centipedes](https://2e.aonprd.com/Monsters.aspx?ID=77)
-- 13-18: 1 [giant spider](https://2e.aonprd.com/Monsters.aspx?ID=386)
-- 19-21: 1d6 [human(oid) skeletons](https://2e.aonprd.com/Monsters.aspx?ID=372)
-- 22-33: 1d6 [jungle goats](https://monster.pf2.tools/v/yrsJ3zzv-jungle-goat)
-- 34-45: 2d4 [monkeys](https://2e.aonprd.com/Monsters.aspx?ID=1231&Weak=true)
-- 46-49: 1 [spider swarm](https://2e.aonprd.com/Monsters.aspx?ID=385&Elite=true)
+- 1-5: 1d6 [Dire Rats](https://2e.aonprd.com/Monsters.aspx?ID=3162&Redirected=1)
+- 6-8: 1 [Ghoul](http://2e.aonprd.com/Monsters.aspx?ID=218)
+- 9-12: 1d4 [Giant Centipedes](https://2e.aonprd.com/Monsters.aspx?ID=77)
+- 13-18: 1 [Giant Spider](https://2e.aonprd.com/Monsters.aspx?ID=386)
+- 19-21: 1d6 [Human(oid) Skeletons](https://2e.aonprd.com/Monsters.aspx?ID=372)
+- 22-33: 1d6 [Jungle Goats](https://monster.pf2.tools/v/yrsJ3zzv-jungle-goat)
+- 34-45: 2d4 [Monkeys](https://2e.aonprd.com/Monsters.aspx?ID=1231&Weak=true)
+- 46-49: 1 [Spider Swarm](https://2e.aonprd.com/Monsters.aspx?ID=385&Elite=true)
 - 50-59: 1d4 [Thrunefang Warriors](https://monster.pf2.tools/v/T0sX6mOW-thrunefang-warrior)
-- 60-64: 1d4 [vipers](https://2e.aonprd.com/Monsters.aspx?ID=379)
-- 65-68: 1 [bat swarm](https://2e.aonprd.com/Monsters.aspx?ID=45)
-- 69-72: 1 [constrictor snake](https://monster.pf2.tools/v/RoRS9Wzy)
-- 73-78: 1d4 [dimorphodons] https://monster.pf2.tools/v/C0LrszSc
-- 79-81: 1d6 [human(oid) zombies](https://2e.aonprd.com/Monsters.aspx?ID=3249)
-- 82-84: [Pezock] or see L
-- 85-89: 1 [Shiv dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
-- 90-96: 1d4 [venomous snakes](./statblocks/venomous_snake.pdf)
-- 97-99: 1d4 [shocker lizards](https://2e.aonprd.com/Monsters.aspx?ID=802)
-- 100: 1 [winged chupacabra] https://monster.pf2.tools/v/4WWQV3Cq
+- 60-64: 1d4 [Vipers](https://2e.aonprd.com/Monsters.aspx?ID=379)
+- 65-68: 1 [Bat Swarm](https://2e.aonprd.com/Monsters.aspx?ID=45)
+- 69-72: 1 [Constrictor Snake](https://monster.pf2.tools/v/RoRS9Wzy)
+- 73-78: 1d4 [Dimorphodons] https://monster.pf2.tools/v/C0LrszSc
+- 79-81: 1d6 [Human(oid) Zombies](https://2e.aonprd.com/Monsters.aspx?ID=3249)
+- 82-84: [Pezock] https://monster.pf2.tools/v/HMFjR5l5-pezock or see L
+- 85-89: 1 [Shiv Dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
+- 90-96: 1d4 [Venomous Snakes](./statblocks/venomous_snake.pdf)
+- 97-99: 1d4 [Shocker Lizards](https://2e.aonprd.com/Monsters.aspx?ID=802)
+- 100: 1 [Winged Chupacabra] https://monster.pf2.tools/v/4WWQV3Cq
 
 ## Part 1: Shipwrecked on the Shiv (###xp, Party Level 1)
 
@@ -108,7 +108,7 @@ This is a fairly short part but serves the purpose of showing how dire their sit
 
 ## Part 2: Exploring the Shiv (###xp, Party level 1-2)
 
-This is THE BRUNT of this book. The party should hit Level 2 while exploring, and could even reach Level 3! 
+This is THE BRUNT of this book. The party should hit Level 2 while exploring, and could even reach Level 3! Xp and threat level will be assumed as if the party takes the encounters in order and with the average xp, therefore with random encounters you can't always trust the threat level or xp.
 
 ### B. Wreck of the Jenivere (40xp, low threat)
 
@@ -117,10 +117,49 @@ This is THE BRUNT of this book. The party should hit Level 2 while exploring, an
   - **Loot:** Captain's Log
 
 ### C. Predator Dens (xp based on den, variable threat level)
+- When a den has been cleared they can no longer be encountered in the random encounters, we suggest removing a random number corresponding to that from the random encounter table
 
-### D. Shipwrecks (xp based on wreck, variable threat level)
+#### C1. Dimorphodon Nest (xx-xx xp)
+- **Creatures:**
+  - 1d3 [Dimorphodon]
 
-### G. The Brine Demon (###xp, threat level)
+#### C2. Venomous snake (xx xp)
+- **Creatures:**
+  - 1 [Venomous Snake]
+
+#### C3. Giant Spider (60 xp, Low Threat)
+- **Creatures:**
+  - 1 [Giant Spider](https://2e.aonprd.com/Monsters.aspx?ID=3207&Elite=true&NoRedirect=1)
+
+#### C4. Constrictor Snake (xx-xx xp)
+- **Creatures:**
+  - 1d3 [Constrictor Snake]
+
+#### C5. Giant Crab (60 xp, Low Threat)
+- **Creatures:**
+  - 1 [Giant Crab](https://2e.aonprd.com/Monsters.aspx?ID=588)
+
+#### C6. Shocker Lizards 60 xp, Low Threat)
+- **Creatures:**
+  - 2 [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
+
+#### C7. Shiv Dragon (60 xp, Low Threat)
+- **Creatures:**
+  - 1 [Shiv Dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
+
+#### C8. Cave Fishers (60 xp, Low Threat)
+- **Creatures:**
+  - 1 [Cave Fisher](https://2e.aonprd.com/Monsters.aspx?ID=580)
+
+### D. Shipwrecks (120 xp per ship wreck with encounter, Severe Threat)
+Your group should on average encounter 2 of each group totaling 480 xp
+- 4 [Human(oid) Zombie](https://2e.aonprd.com/Monsters.aspx?ID=3249)
+- 6 [Human(oid) Skeleton](https://2e.aonprd.com/Monsters.aspx?ID=372)
+
+### G. The Brine Demon (###xp, threat level) Assumes Level 2 from here on
+-Award the PC's xp as if they slew Captain Avret Kinkarian if the make peace with him using the locket.
+-Award the PC's 20 xp for proving Jasks innocense
+- [Captain Avret Kinkarian]
 
 ### H. Creeper's Clearing (###xp, threat level)
 
