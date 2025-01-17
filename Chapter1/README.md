@@ -20,7 +20,7 @@
 - Level 3: before they reach the Cannibal Ambush
 - Level 4: before they enter the Azlanti Temple
 
-Using Fast Track Advancement, as per the original AP, the target for this book is therefore 3,000 + plus optional encounters = 3200-3xxx level adjusted XP.
+Using Fast Track Advancement, as per the original AP, the target for this book is therefore 3,000 + plus random encounters = 3200-3xxx level adjusted XP.
 ## Section XP rewards
 
 Part | Title                   | Max XP 
