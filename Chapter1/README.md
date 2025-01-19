@@ -26,7 +26,7 @@ Using Fast Track Advancement, as per the original AP, the target for this book i
 Part | Title                   |  XP 
 -----|-------------------------|-------
 1    | Shipwrecked on the Shiv |  80-150  
-2    | Exploring the Shiv      |  xxx 
+2    | Exploring the Shiv      |  860+ 
 3    | The Cannibal Camp       |  xxx  
 4    | Temple of Blood         |  xxx 
  
@@ -119,55 +119,69 @@ This is THE BRUNT of this book. The party should hit Level 2 while exploring, an
 ### C. Predator Dens (xp based on den, variable threat level)
 - When a den has been cleared they can no longer be encountered in the random encounters, we suggest removing a random number corresponding to that from the random encounter table
 
-#### C1. Dimorphodon Nest (xx-xx xp)
+#### C1. Dimorphodon Nest (30-90 xp, trivial to severe Threat)*4
 - **Creatures:**
-  - 1d3 [Dimorphodon]
+  - 1d3 [Dimorphodon](./statblocks/dimorphodon.pdf)
 
-#### C2. Venomous snake (xx xp)
+#### C2. Venomous snake (40 xp, Low Threat)*3
 - **Creatures:**
-  - 1 [Venomous Snake]
+  - 1 [Venomous Snake](./statblocks/venomous_snake.pdf)
 
-#### C3. Giant Spider (60 xp, Low Threat)
+#### C3. Giant Spider (60 xp, Low Threat)*3
 - **Creatures:**
   - 1 [Giant Spider](https://2e.aonprd.com/Monsters.aspx?ID=3207&Elite=true&NoRedirect=1)
 
-#### C4. Constrictor Snake (xx-xx xp)
+#### C4. Constrictor Snake (60 xp, Low threat)*3
 - **Creatures:**
-  - 1d3 [Constrictor Snake]
+  - 1 [Constrictor Snake](https://monster.pf2.tools/v/RoRS9Wzy)
 
-#### C5. Giant Crab (60 xp, Low Threat)
+#### C5. Giant Crab (60 xp, Low Threat)*5
 - **Creatures:**
   - 1 [Giant Crab](https://2e.aonprd.com/Monsters.aspx?ID=588)
 
-#### C6. Shocker Lizards 60 xp, Low Threat)
+#### C6. Shocker Lizards 60 xp, Low Threat)*3
 - **Creatures:**
   - 2 [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
 
-#### C7. Shiv Dragon (60 xp, Low Threat)
+#### C7. Shiv Dragon (60 xp, Low Threat)*6
 - **Creatures:**
   - 1 [Shiv Dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
 
-#### C8. Cave Fishers (60 xp, Low Threat)
+#### C8. Cave Fishers (60 xp, Low Threat)*6
 - **Creatures:**
   - 1 [Cave Fisher](https://2e.aonprd.com/Monsters.aspx?ID=580)
 
-### D. Shipwrecks (120 xp per ship wreck with encounter, Severe Threat)
-Your group should on average encounter 2 of each group totaling 480 xp
+### D. Shipwrecks (80/90 xp per ship wreck with encounter, Moderate/Severe Threat) Assumes Level 2 from here on
+Your group should on average encounter 2 of each group totaling 340 xp
 - 4 [Human(oid) Zombie](https://2e.aonprd.com/Monsters.aspx?ID=3249)
 - 6 [Human(oid) Skeleton](https://2e.aonprd.com/Monsters.aspx?ID=372)
 
-### G. The Brine Demon (###xp, threat level) Assumes Level 2 from here on
+### E. Viper Nettles (20 xp)
+-Award the PC's 20 xp for curing Aerys Mavato's disease
+
+### F. Yarzoth's Landfall (10 xp)
+-Award the PC's 10 xp for identifying the items
+
+### G. The Brine Demon (80xp, Low Threat)
 -Award the PC's xp as if they slew Captain Avret Kinkarian if the make peace with him using the locket.
 -Award the PC's 20 xp for proving Jasks innocense
 - [Captain Avret Kinkarian]
 
-### H. Creeper's Clearing (###xp, threat level)
+### H. Creeper's Clearing (60xp, Low Threat)
+- 1 [Yellow Musk Creeper](https://2e.aonprd.com/Monsters.aspx?ID=867)
+- 2 [Yellow Musk Zombie](https://2e.aonprd.com/Monsters.aspx?ID=868)
 
-### I. Abandoned Camps (###xp, threat level)
+### I. Abandoned Camps (30/10xp)
+#### I1. Bloody doll camp (30 xp, Trivial Threat)
+- 2 [Yellow Musk Zombie](https://2e.aonprd.com/Monsters.aspx?ID=868)
 
-### J. Spiked Snares (###xp, threat level)
+#### I2. Crow's Tooth Camp (10 xp)
+-Award the PC's 10 xp for finding the dagger and determining that it is the mark of the red mantis
 
-### K. The Treasure Pit (###xp, threat level)
+### J. Spiked Snares (12xp, Trivial Threat)*10
+- [Spiked Trap](https://2e.aonprd.com/Hazards.aspx?ID=217)
+
+### K. The Treasure Pit (XXxp, threat level) Assumes Level 3 from here on
 
 ### L. Pezocks Crab (###xp, threat level, RP Encounter)
 
