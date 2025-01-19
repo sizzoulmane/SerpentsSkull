@@ -23,10 +23,10 @@
 Using Fast Track Advancement, as per the original AP, the target for this book is therefore 3,000 + plus random encounters = 3200-3xxx level adjusted XP.
 ## Section XP rewards
 
-Part | Title                   |  XP 
+Part | Title                   | Max XP 
 -----|-------------------------|-------
-1    | Shipwrecked on the Shiv |  80-150  
-2    | Exploring the Shiv      |  860+ 
+1    | Shipwrecked on the Shiv |  150  
+2    | Exploring the Shiv      |  1977 
 3    | The Cannibal Camp       |  xxx  
 4    | Temple of Blood         |  xxx 
  
@@ -76,7 +76,7 @@ Aycenia
 - 22-33: 1d6 [Jungle Goats](https://monster.pf2.tools/v/yrsJ3zzv-jungle-goat)
 - 34-45: 2d4 [Monkeys](https://2e.aonprd.com/Monsters.aspx?ID=1231&Weak=true)
 - 46-49: 1 [Spider Swarm](https://2e.aonprd.com/Monsters.aspx?ID=385&Elite=true)
-- 50-59: 1d4 [Thrunefang Warriors](https://monster.pf2.tools/v/T0sX6mOW-thrunefang-warrior)
+- 50-59: 1d4 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
 - 60-64: 1d4 [Vipers](https://2e.aonprd.com/Monsters.aspx?ID=379)
 - 65-68: 1 [Bat Swarm](https://2e.aonprd.com/Monsters.aspx?ID=45)
 - 69-72: 1 [Constrictor Snake](https://monster.pf2.tools/v/RoRS9Wzy)
@@ -88,7 +88,7 @@ Aycenia
 - 97-99: 1d4 [Shocker Lizards](https://2e.aonprd.com/Monsters.aspx?ID=802)
 - 100: 1 [Winged Chupacabra](./statblocks/winged_chupacabra.pdf)
 
-## Part 1: Shipwrecked on the Shiv (###xp, Party Level 1)
+## Part 1: Shipwrecked on the Shiv (80-150xp, Party Level 1)
 
 This is a fairly short part but serves the purpose of showing how dire their situation is. It should put into focus that they've need a safe place to camp, then start exploring the Shiv to track down anyone else from the Jenivere, as well as finding a way off the island.
 
@@ -106,7 +106,7 @@ This is a fairly short part but serves the purpose of showing how dire their sit
  - 10xp for confirming the island is Smuggler's Shiv
  - 10xp, 20xp, 30xp, or 40xp for successful Lore checks via page 11.
 
-## Part 2: Exploring the Shiv (###xp, Party level 1-2)
+## Part 2: Exploring the Shiv (1977xp on average, Party level 1-3)
 
 This is THE BRUNT of this book. The party should hit Level 2 while exploring, and could even reach Level 3! Xp and threat level will be assumed as if the party takes the encounters in order and with the average xp, therefore with random encounters you can't always trust the threat level or xp.
 
@@ -119,9 +119,10 @@ This is THE BRUNT of this book. The party should hit Level 2 while exploring, an
 ### C. Predator Dens (xp based on den, variable threat level)
 - When a den has been cleared they can no longer be encountered in the random encounters, we suggest removing a random number corresponding to that from the random encounter table
 
-#### C1. Dimorphodon Nest (30-90 xp, trivial to severe Threat)*4
+#### C1. Dimorphodon Nest (30-90+20 xp, trivial to severe Threat)*4
 - **Creatures:**
   - 1d3 [Dimorphodon](./statblocks/dimorphodon.pdf)
+  - Award the PC's 20 xp for capturing a dimorphodon
 
 #### C2. Venomous snake (40 xp, Low Threat)*3
 - **Creatures:**
@@ -171,7 +172,7 @@ Your group should on average encounter 2 of each group totaling 340 xp
 - 1 [Yellow Musk Creeper](https://2e.aonprd.com/Monsters.aspx?ID=867)
 - 2 [Yellow Musk Zombie](https://2e.aonprd.com/Monsters.aspx?ID=868)
 
-### I. Abandoned Camps (30/10xp)
+### I. Abandoned Camps (40xp)
 #### I1. Bloody doll camp (30 xp, Trivial Threat)
 - 2 [Yellow Musk Zombie](https://2e.aonprd.com/Monsters.aspx?ID=868)
 
@@ -181,30 +182,130 @@ Your group should on average encounter 2 of each group totaling 340 xp
 ### J. Spiked Snares (12xp, Trivial Threat)*10
 - [Spiked Trap](https://2e.aonprd.com/Hazards.aspx?ID=217)
 
-### K. The Treasure Pit (60xp, Low Threat) Assumes Level 3 from here on
+### K. The Treasure Pit (80xp, Low Threat) Assumes Level 3 from here on
 - 2 [Lacedons](https://2e.aonprd.com/Monsters.aspx?ID=1865)
+- Award the PC's 20 xp for finding the treasure pit and sharing it with Ishirou
 
 ### L. Pezocks Crab (30xp, threat level, RP Encounter)
 - [Pezock](./statblocks/pezock.pdf)
 - ![Pezock](./statblocks/pezock.png)
 
-### M. Cannibal Ambush (###xp, threat level)
+### M. Cannibal Ambush (27xp, RP encounter)
 - [Spiked Trap](https://2e.aonprd.com/Hazards.aspx?ID=217)
-- 1 [Thrunefang Warrior](https://monster.pf2.tools/v/T0sX6mOW-thrunefang-warrior)
+- 1 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
+- ![Thrunefang Warrior](./statblocks/thrunefang_warrior.png)
 
-### N. Abandoned Hut (###xp, RP Encounter)
+### N. Abandoned Hut (10xp, RP Encounter)
+- Award the PC's 10 xp for finding the notes
 
-### Q. The Silent Island (###xp, threat level)
+### Q. The Silent Island (30xp,Trivial Threat)*3
+- 2 [Vegepygmie](./statblocks/vegepygmie.pdf)
+-  ![Vegepygmie](./statblocks/vegepygmie.png)
 
-### R. The Nightvoice (###xp, threat level)
+### R. The Nightvoice (80xp, Low Threat)
+- 2 [Vegepygmie](./statblocks/vegepygmie.pdf)
+- 1 [vegepygmie boss](./statblocks/vegepygmie_boss.pdf)
+- ![vegepygmie boss](./statblocks/vegepygmie_boss.png)
+- Award the PC's 20 xp for finding the Nightvoice
 
-### S. The Fungus God (###xp, threat level)
+### S. The Fungus God (40xp, Trivial Threat)
+- 1 [Fiendis Violet Fungus](https://2e.aonprd.com/Monsters.aspx?ID=853)
 
-### U. The Spirit of the Hill (###xp, threat level, RP Encounter)
+### U. The Spirit of the Hill (60xp, RP Encounter)
+- [Aycenia](https://2e.aonprd.com/Monsters.aspx?ID=3112&Elite=true&NoRedirect=1)
+- She additionnaly has 3 level 2 heal spells prepared per day
+- Award the PC's xp as if the defeted Aycenia if they complete her quest
 
-## Part 3: The Cannibal Camp  (###xp, Party Level 2)
+## Part 3: The Cannibal Camp  (###xp, Party Level 3)
+### V. TThrunefang Camp
+-22 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
+- ![Thrunefang Warrior](./statblocks/thrunefang_warrior.png)
+- Remember to subtract any thrunefang patrols encountered
+#### V1. Shiv Dargon (xxp, Threat)
+-
 
-## Part 4: Temple of Blood  (###xp, Party Level 3)
+#### V2. Shiv Dargon (xxp, Threat)
+- 
+
+#### V3. Shiv Dargon (xxp, Threat)
+- 
+
+#### V4. Shiv Dargon (xxp, Threat)
+- 
+
+#### V5. Shiv Dargon (xxp, Threat)
+- 
+
+#### V6. Shiv Dargon (xxp, Threat)
+- 
+
+#### V7. Shiv Dargon (xxp, Threat)
+- 
+
+#### V8. Shiv Dargon (xxp, Threat)
+- 
+
+#### V9. Shiv Dargon (xxp, Threat)
+- 
+
+#### V10. Shiv Dargon (xxp, Threat)
+- 
+
+#### V11. Shiv Dargon (xxp, Threat)
+- 
+
+#### V12. Shiv Dargon (xxp, Threat)
+- 
+
+#### V13. Shiv Dargon (xxp, Threat)
+- 
+
+#### V14. Shiv Dargon (xxp, Threat)
+- 
+
+#### V15. Shiv Dargon (xxp, Threat)
+- 
+
+#### V16. Shiv Dargon (xxp, Threat)
+- 
+
+#### V17. Shiv Dargon (xxp, Threat)
+- 
+
+#### V18. Shiv Dargon (xxp, Threat)
+- 
+
+#### V19. Shiv Dargon (xxp, Threat)
+- 
+
+#### V20. Shiv Dargon (xxp, Threat)
+- 
+
+#### V21. Shiv Dargon (xxp, Threat)
+- 
+
+#### V22. Shiv Dargon (xxp, Threat)
+- 
+
+#### V23. Shiv Dargon (xxp, Threat)
+- 
+
+#### V24. Shiv Dargon (xxp, Threat)
+- 
+
+#### V25. Shiv Dargon (xxp, Threat)
+- 
+
+#### V26. Shiv Dargon (xxp, Threat)
+- 
+
+#### V27. Shiv Dargon (xxp, Threat)
+-
+
+#### V28. Shiv Dargon (xxp, Threat)
+- 
+
+## Part 4: Temple of Blood  (###xp, Party Level 4)
 
 ## -- End of Serpent's Skull: Souls for Smugglers Shiv 2E conversion guide --
 
