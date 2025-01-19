@@ -23,7 +23,7 @@
 Using Fast Track Advancement, as per the original AP, the target for this book is therefore 3,000 + plus random encounters = 3200-3xxx level adjusted XP.
 ## Section XP rewards
 
-Part | Title                   | Max XP 
+Part | Title                   |  XP 
 -----|-------------------------|-------
 1    | Shipwrecked on the Shiv |  80-150  
 2    | Exploring the Shiv      |  xxx 
@@ -35,14 +35,14 @@ Part | Title                   | Max XP
 
 Level | Total gp | Permanent Items (P)   | Consumables (C)                  | Cash  | Part
 ------|----------|-----------------------|----------------------------------|-------|-----
-Lv1   | xxxgp    | **2nd:** x **1st:** x | **2nd:** x **1st:** x            | xxxgp  | 
-Lv2   | xxxgp    | **3rd:** x **2nd:** x | **3rd:** x **2nd:** x **1st:** x | xxxgp  |
+Lv1   | xxxgp    | **2nd:** x **1st:** x | **2nd:** x **1st:** x            | xxxgp | 
+Lv2   | xxxgp    | **3rd:** x **2nd:** x | **3rd:** x **2nd:** x **1st:** x | xxxgp |
 Lv3   | xxxgp    | **4th:** x **3rd:** x | **4th:** x **3rd:** x **2nd:** x | xxxgp | 
 Lv4   | xxxgp    | **5th:** x **4th:** x | **5th:** x **4th:** x **3rd:** x | xxxgp |  
 
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
 
-This adventure contains all treasure for 1st through 4th levels.
+This adventure contains all [treasure](https://docs.google.com/spreadsheets/d/1atMQxRgSKBF4xaGR8UK_2yB75FY9n85B/edit?gid=216243941#gid=216243941) for 1st through 4th levels.
 
 As a general rule divide the gp values of valuables by 10 to convert to 2E. Occasionally they are divided by 20 in order to fit the 2E wealth guidelines. 
 
