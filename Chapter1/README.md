@@ -181,11 +181,16 @@ Your group should on average encounter 2 of each group totaling 340 xp
 ### J. Spiked Snares (12xp, Trivial Threat)*10
 - [Spiked Trap](https://2e.aonprd.com/Hazards.aspx?ID=217)
 
-### K. The Treasure Pit (XXxp, threat level) Assumes Level 3 from here on
+### K. The Treasure Pit (60xp, Low Threat) Assumes Level 3 from here on
+- 2 [Lacedons](https://2e.aonprd.com/Monsters.aspx?ID=1865)
 
-### L. Pezocks Crab (###xp, threat level, RP Encounter)
+### L. Pezocks Crab (30xp, threat level, RP Encounter)
+- [Pezock](./statblocks/pezock.pdf)
+- ![Pezock](./statblocks/pezock.png)
 
 ### M. Cannibal Ambush (###xp, threat level)
+- [Spiked Trap](https://2e.aonprd.com/Hazards.aspx?ID=217)
+- 1 [Thrunefang Warrior](https://monster.pf2.tools/v/T0sX6mOW-thrunefang-warrior)
 
 ### N. Abandoned Hut (###xp, RP Encounter)
 
