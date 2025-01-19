@@ -80,13 +80,13 @@ Aycenia
 - 60-64: 1d4 [Vipers](https://2e.aonprd.com/Monsters.aspx?ID=379)
 - 65-68: 1 [Bat Swarm](https://2e.aonprd.com/Monsters.aspx?ID=45)
 - 69-72: 1 [Constrictor Snake](https://monster.pf2.tools/v/RoRS9Wzy)
-- 73-78: 1d4 [Dimorphodons] https://monster.pf2.tools/v/C0LrszSc
+- 73-78: 1d4 [Dimorphodons](./statblocks/dimorphodon.pdf)
 - 79-81: 1d6 [Human(oid) Zombies](https://2e.aonprd.com/Monsters.aspx?ID=3249)
-- 82-84: [Pezock] https://monster.pf2.tools/v/HMFjR5l5-pezock or see L
+- 82-84: [Pezock](./statblocks/pezcock.pdf) or see L
 - 85-89: 1 [Shiv Dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
 - 90-96: 1d4 [Venomous Snakes](./statblocks/venomous_snake.pdf)
 - 97-99: 1d4 [Shocker Lizards](https://2e.aonprd.com/Monsters.aspx?ID=802)
-- 100: 1 [Winged Chupacabra] https://monster.pf2.tools/v/4WWQV3Cq
+- 100: 1 [Winged Chupacabra](./statblocks/winged_chupacabra.pdf)
 
 ## Part 1: Shipwrecked on the Shiv (###xp, Party Level 1)
 
