@@ -14,6 +14,8 @@
 
   - This is a fan created unofficial guide, and what it contains is therefore a series of suggestions, that you can take, modify or leave as you see fit.
   - DCs are not converted to 2E, except where they are contained within a creature or hazard stat block, or are particularly significant. All other DCs are left to GM discretion. See [level based DCs](https://2e.aonprd.com/Rules.aspx?ID=554) for guidance.
+  - Treasure have not been filled in but a suggestion is the work by [Sithdrummer](https://docs.google.com/spreadsheets/d/1atMQxRgSKBF4xaGR8UK_2yB75FY9n85B/edit?gid=564618612#gid=564618612) this also includes suggestion for DCs and conversions of the backgrounds.
+  - Xp have been provided for the first adventure, but is not planned for book 2-6, for inspiration chack out the work performed by [Sithdrummer](https://docs.google.com/spreadsheets/d/1pwLx-SL_JATb6UBsLm_CYSJMz_D43Zuh/edit?gid=1699113025#gid=1699113025)
 
 ## Party Levelling Milestones
 - Level 2: after they've discovered the Jenivere and the Captains log
@@ -86,7 +88,7 @@ Aycenia
 - 85-89: 1 [Shiv Dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
 - 90-96: 1d4 [Venomous Snakes](./statblocks/venomous_snake.pdf)
 - 97-99: 1d4 [Shocker Lizards](https://2e.aonprd.com/Monsters.aspx?ID=802)
-- 100: 1 [Winged Chupacabra](./statblocks/winged_chupacabra.pdf)
+- 100: 1 [The Red Devil](./statblocks/winged_chupacabra.pdf)
 
 ## Part 1: Shipwrecked on the Shiv (80-150xp, Party Level 1)
 
@@ -221,91 +223,84 @@ Your group should on average encounter 2 of each group totaling 340 xp
 -22 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
 - ![Thrunefang Warrior](./statblocks/thrunefang_warrior.png)
 - Remember to subtract any thrunefang patrols encountered
-#### V1. Shiv Dargon (xxp, Threat)
--
+#### V1. Shiv Dargon (30p, Trivial Threat)
+-1 [Shiv Dragon](https://2e.aonprd.com/Monsters.aspx?ID=289)
 
-#### V2. Shiv Dargon (xxp, Threat)
-- 
+#### V2. Firepit (60p, Low Threat)
+- 4 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
 
-#### V3. Shiv Dargon (xxp, Threat)
-- 
+#### V3. Communal Hut (60p, Low Threat)
+- 4 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
 
-#### V4. Shiv Dargon (xxp, Threat)
-- 
+#### V4. Guard Post (30p, Trivial Threat)
+- 2 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
 
-#### V5. Shiv Dargon (xxp, Threat)
-- 
+#### V9. Skeleton Pit (40p, Trivial Threat)
+- 4 [Human(oid) Skeletons](https://2e.aonprd.com/Monsters.aspx?ID=372)
 
-#### V6. Shiv Dargon (xxp, Threat)
-- 
+#### V10. Shiv Dargon (60p, Low Threat)
+- [Malikadana](./statblocks/Malikadana.pdf)
+- ![Malikadana](./statblocks/Malikadana.png)
 
-#### V7. Shiv Dargon (xxp, Threat)
-- 
+#### V12. Guard Post (30p, Trivial Threat)
+- 2 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
 
-#### V8. Shiv Dargon (xxp, Threat)
-- 
+#### V15. Shrine to Thrune (10xp)
+- Award the PC's 10 xp for finding the connection to Thrune
 
-#### V9. Shiv Dargon (xxp, Threat)
-- 
+#### V16. Chieftan's Den (100p, Severe Threat)
+- 4 [Thrunefang Warrior](./statblocks/thrunefang_warrior.pdf)
+- [Klorak the Red](./statblocks/Klorak_the_Red.pdf)
+- ![Klorak_the_Red](./statblocks/Klorak_the_Red.png)
 
-#### V10. Shiv Dargon (xxp, Threat)
-- 
+#### V18. The Light (10xp)
+- Award the PC's 10 xp for repairing the light
 
-#### V11. Shiv Dargon (xxp, Threat)
-- 
+#### V20. Cavern of Unbirth (40p, Trivial Threat)
+- 2 [Festrog](https://2e.aonprd.com/Monsters.aspx?ID=1153)
 
-#### V12. Shiv Dargon (xxp, Threat)
-- 
+#### V21. The Throat (30p, Trivial Threat)
+- 1 [Lacedon](https://2e.aonprd.com/Monsters.aspx?ID=1865) 
 
-#### V13. Shiv Dargon (xxp, Threat)
-- 
+#### V22. Temple of Ydersius (60p, Low Threat)
+- 2 [Lacedon](https://2e.aonprd.com/Monsters.aspx?ID=1865) 
 
-#### V14. Shiv Dargon (xxp, Threat)
-- 
+#### V23. Inner Sanctum (10xp)
+- Award the PC's 10 xp for figuring out the reference to the red mountain
 
-#### V15. Shiv Dargon (xxp, Threat)
-- 
+#### V25. Ghoulish Cavern (30xp, Trivial Threat)
+- 1 [Lacedon](https://2e.aonprd.com/Monsters.aspx?ID=1865) 
 
-#### V16. Shiv Dargon (xxp, Threat)
-- 
+#### V27. Festering Cavern (90xp, Severe Threat)
+- 3 [Lacedon](https://2e.aonprd.com/Monsters.aspx?ID=1865) 
 
-#### V17. Shiv Dargon (xxp, Threat)
-- 
-
-#### V18. Shiv Dargon (xxp, Threat)
-- 
-
-#### V19. Shiv Dargon (xxp, Threat)
-- 
-
-#### V20. Shiv Dargon (xxp, Threat)
-- 
-
-#### V21. Shiv Dargon (xxp, Threat)
-- 
-
-#### V22. Shiv Dargon (xxp, Threat)
-- 
-
-#### V23. Shiv Dargon (xxp, Threat)
-- 
-
-#### V24. Shiv Dargon (xxp, Threat)
-- 
-
-#### V25. Shiv Dargon (xxp, Threat)
-- 
-
-#### V26. Shiv Dargon (xxp, Threat)
-- 
-
-#### V27. Shiv Dargon (xxp, Threat)
--
-
-#### V28. Shiv Dargon (xxp, Threat)
-- 
+#### V28. Mother's Cyst (80xp, Moderate Threat)
+- [Nylithati](https://2e.aonprd.com/Monsters.aspx?ID=1866))
 
 ## Part 4: Temple of Blood  (###xp, Party Level 4)
+
+#### Y1. The Tide Stone (10xp)
+-Award the PC's 10 xp for using the Tide Stone
+
+#### Y2. The Red Mountain Devil's Den (xp, xxx Threat)
+- 1 [The Red Devil](./statblocks/winged_chupacabra.pdf)
+
+#### Y4. Trapped Shark (40xp, Trivial Threat)
+- 1 [Blue Shark](https://2e.aonprd.com/Monsters.aspx?ID=3188)
+
+#### Y8. Forward Cabin (xp, xxx Threat)
+-[Ekubus](./statblocks/Ekubus.pdf)
+- ![Ekubus](./statblocks/Ekubus.png)
+- Award the xp as if Ekubus was slain if they help him stay in his delusion and does not attack
+
+#### Y9. Cargo Hold (30xp, Trivial Threat)
+-[Spear Urchin](https://2e.aonprd.com/Monsters.aspx?ID=3277)
+
+#### Y10. Temple Doors (10xp)
+-Award the PC's 10 xp for finding the connection to the cult of Zura
+
+#### Z1. xxx (xp, Threat)
+-
 
 ## -- End of Serpent's Skull: Souls for Smugglers Shiv 2E conversion guide --
 
